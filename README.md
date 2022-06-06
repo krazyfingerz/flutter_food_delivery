@@ -1,4 +1,4 @@
-# flutter_fooddelivery_affoodable
+# Food Delivery App built with Flutter.
 
 A new Flutter project.
 

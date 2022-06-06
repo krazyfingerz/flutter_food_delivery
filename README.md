@@ -1,4 +1,5 @@
 # Food Delivery App built with Flutter.
+![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/1.%20Intro%201.png)
 
 A new Flutter project.
 

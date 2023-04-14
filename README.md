@@ -1,30 +1,9 @@
-# flutter_food_delivery
+# Food Delivery App built with Flutter.
 
-A new Flutter project.
+| Intro Page 1  | Intro Page 2  | Intro Page 3 | Intro Page 4 |
+| ------------- | ------------- | ------------ | ------------ | 
+| ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/1.%20Intro%201.png)  | ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/2.%20Intro%202.png)  | ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/3.%20Intro%203.png) | ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/4.%20Intro%204.png) |
 
-## Getting Started
-
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+| Sign In Page  | HomePage | Delivery Time Selector | CartPage |
+| ------------- | ------------- | ------------ | ------------ | 
+| ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/5.%20SignIn%20screen.png)  | ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/6.%20HomePage.png)  | ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/7.%20DeliveryTme%20Selector%20(HomePage).png) | ![alt text](https://github.com/krazyfingerz/flutter_food_delivery/blob/master/screenshots/8.%20CartPage.png) |
